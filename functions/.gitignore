@@ -1,0 +1,14 @@
+# Build output (compiled TypeScript)
+lib/
+
+# Node.js dependencies
+node_modules/
+
+# Firebase / local runtime artifacts
+firebase-debug.log
+firestore-debug.log
+*.local
+
+# Environment variables
+.env
+.env.*
